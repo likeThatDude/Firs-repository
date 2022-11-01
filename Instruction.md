@@ -25,9 +25,11 @@ _Альтернативные способы выделения текста н�
 
 пример изобрадения : 
 
-![Новая картинка]{cod.jpg}
+![картинка](C:\Users\1995v\Desktop\Self\Firs-repository/krasnaya-panda-zhivotnoe-opisanie-osobennosti-vidy-obraz-zhizni-i-sreda-obitaniya-pandy-5.jpg)
 
 ## Ссылки
+
+[Gitgub](https://github.com/likeThatDude/Firs-repository "Необязательная подсказка")
 
 ## Работа с таблицами
 
